@@ -2,3 +2,8 @@ Main()
 {
   print "hello word"
 }
+
+method()
+{
+  print "my name is –°∑ ≈£"
+} 
